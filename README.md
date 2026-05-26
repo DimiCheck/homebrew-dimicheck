@@ -3,11 +3,12 @@
 Install DimiCheck Mac:
 
 ```bash
-brew install --cask dimicheck/dimicheck/dimicheck-mac
+brew tap DimiCheck/dimicheck
+brew install --cask dimicheck-mac
 ```
 
-If the tap is already added:
+One-line install:
 
 ```bash
-brew install --cask dimicheck-mac
+brew install --cask DimiCheck/dimicheck/dimicheck-mac
 ```
